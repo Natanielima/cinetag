@@ -1,7 +1,5 @@
 import Banner from "components/Banner";
-
 import Cards from "components/Cards";
-
 import Titulo from "components/Titulo";
 import videos from 'json/db.json';
 import styles from './inicio.module.css'
